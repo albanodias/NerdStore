@@ -38,20 +38,31 @@ namespace NSE.Identidade.API
                 .AddDefaultTokenProviders();
 
             services.AddControllers();
+
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "NSE.Identidade.API", Version = "v1" });
+                c.SwaggerDoc(name: "v1", new OpenApiInfo
+                {
+                    Title = "NerdStore Enterprise Identity API",
+                    Description = "Esta API faz parte do curso ASP.NET Core Enterprise Applications",
+                    Contact = new OpenApiContact() { Name = "Roberto Albano", Email = "rad.contato@gmail.com" },
+                    License = new OpenApiLicense() { Name = "MIT", Url = new Uri(uriString: "https://opensource.org/licenses/MIT") }
+                });
             });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint(url: "/swagger/v1/swagger.json", name: "v1");
+            });
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "NSE.Identidade.API v1"));
             }
 
             app.UseHttpsRedirection();
