@@ -15,7 +15,12 @@
       "ProjectGuid": "f3bef97f-2fe8-40ff-8938-84b3658c7d53",
       "DisplayName": "NSE.WebApp.MVC",
       "ColorIndex": 1
+    },
+    "0230bd64-30e5-4b6c-a63c-9ed4f1aee29b": {
+      "ProjectGuid": "0230bd64-30e5-4b6c-a63c-9ed4f1aee29b",
+      "DisplayName": "NSE.Core",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
