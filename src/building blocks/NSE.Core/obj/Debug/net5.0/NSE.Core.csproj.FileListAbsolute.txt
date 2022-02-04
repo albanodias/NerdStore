@@ -10,3 +10,15 @@ C:\Users\rober\Desktop\Projeto Desenvolvedor-io\NerdStore-Desenvolvedor.io\NerdS
 C:\Users\rober\Desktop\Projeto Desenvolvedor-io\NerdStore-Desenvolvedor.io\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net5.0\NSE.Core.dll
 C:\Users\rober\Desktop\Projeto Desenvolvedor-io\NerdStore-Desenvolvedor.io\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net5.0\ref\NSE.Core.dll
 C:\Users\rober\Desktop\Projeto Desenvolvedor-io\NerdStore-Desenvolvedor.io\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net5.0\NSE.Core.pdb
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\bin\Debug\net5.0\NSE.Core.deps.json
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\bin\Debug\net5.0\NSE.Core.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\bin\Debug\net5.0\ref\NSE.Core.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\bin\Debug\net5.0\NSE.Core.pdb
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\obj\Debug\net5.0\NSE.Core.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\obj\Debug\net5.0\NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\obj\Debug\net5.0\NSE.Core.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\obj\Debug\net5.0\NSE.Core.AssemblyInfo.cs
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\obj\Debug\net5.0\NSE.Core.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\obj\Debug\net5.0\NSE.Core.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\obj\Debug\net5.0\ref\NSE.Core.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.Core\obj\Debug\net5.0\NSE.Core.pdb
