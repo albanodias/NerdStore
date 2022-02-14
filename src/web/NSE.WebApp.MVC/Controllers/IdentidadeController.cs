@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace NSE.WebApp.MVC.Controllers
 {
-    public class IdentidadeController : Controller
+    public class IdentidadeController : MainController
     {
         private readonly IAutenticacaoService _autenticacaoService;
 
@@ -35,13 +35,9 @@ namespace NSE.WebApp.MVC.Controllers
 
             var resposta = await _autenticacaoService.Registro(usuarioRegistro);
 
+            if (ResponsePossuiErros(resposta.ResponseResult)) return View(usuarioRegistro);
+
             await RealizarLogin(resposta);
-
-            //if (ResponsePossuiErros(resposta.ResponseResult)) return View(usuarioRegistro);
-
-            //if (false) return View(usuarioRegistro);
-
-            //await RealizarLogin(resposta);
 
             return RedirectToAction("Index", controllerName: "Home");
         }
@@ -61,9 +57,9 @@ namespace NSE.WebApp.MVC.Controllers
 
             var resposta = await _autenticacaoService.Login(usuarioLogin);
 
-            await RealizarLogin(resposta);
+            if (ResponsePossuiErros(resposta.ResponseResult)) return View(usuarioLogin);
 
-            //if (false) return View(usuarioLogin);
+            await RealizarLogin(resposta);
 
             return RedirectToAction("Index", controllerName: "Home");
 
