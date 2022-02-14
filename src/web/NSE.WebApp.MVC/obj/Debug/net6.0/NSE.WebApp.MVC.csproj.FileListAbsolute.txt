@@ -347,3 +347,10 @@ C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.M
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\ref\NSE.WebApp.MVC.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\NSE.WebApp.MVC.pdb
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\NSE.WebApp.MVC.genruntimeconfig.cache
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
