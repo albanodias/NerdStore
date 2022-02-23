@@ -39,7 +39,6 @@ C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Ped
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Pedido.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Pedido.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Pedido.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.csproj.AssemblyReference.cache
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.AssemblyInfoInputs.cache
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Pedido.API\obj\Debug\net5.0\NSE.Pedido.API.AssemblyInfo.cs
