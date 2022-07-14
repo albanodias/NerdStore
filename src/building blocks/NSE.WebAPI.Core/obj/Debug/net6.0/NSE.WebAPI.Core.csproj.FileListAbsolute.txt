@@ -1,0 +1,12 @@
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.WebAPI.Core.deps.json
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.WebAPI.Core.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\bin\Debug\net6.0\NSE.WebAPI.Core.pdb
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.AssemblyInfo.cs
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\net6.0\refint\NSE.WebAPI.Core.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\net6.0\NSE.WebAPI.Core.pdb
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\net6.0\ref\NSE.WebAPI.Core.dll

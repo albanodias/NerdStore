@@ -26,6 +26,242 @@
         },
         "Patterns": null
       },
+      "images": {
+        "Children": {
+          "avatars": {
+            "Children": {
+              "avatar1.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/avatars/avatar1.jpg"
+                },
+                "Patterns": null
+              },
+              "avatar2.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/avatars/avatar2.jpg"
+                },
+                "Patterns": null
+              },
+              "avatar3.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/avatars/avatar3.jpg"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          },
+          "banners": {
+            "Children": {
+              "1.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/banners/1.jpg"
+                },
+                "Patterns": null
+              },
+              "nerdstore.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/banners/nerdstore.png"
+                },
+                "Patterns": null
+              },
+              "Template.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/banners/Template.jpg"
+                },
+                "Patterns": null
+              },
+              "Template.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/banners/Template.png"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          },
+          "icons": {
+            "Children": {
+              "pay-american-ex.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/icons/pay-american-ex.png"
+                },
+                "Patterns": null
+              },
+              "pay-bank.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/icons/pay-bank.png"
+                },
+                "Patterns": null
+              },
+              "pay-mastercard.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/icons/pay-mastercard.png"
+                },
+                "Patterns": null
+              },
+              "pay-visa-el.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/icons/pay-visa-el.png"
+                },
+                "Patterns": null
+              },
+              "pay-visa.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/icons/pay-visa.png"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          },
+          "logo.png": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "images/logo.png"
+            },
+            "Patterns": null
+          },
+          "misc": {
+            "Children": {
+              "appstore.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/misc/appstore.png"
+                },
+                "Patterns": null
+              },
+              "payments.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/misc/payments.png"
+                },
+                "Patterns": null
+              },
+              "playmarket.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/misc/playmarket.png"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          },
+          "produtos": {
+            "Children": {
+              "camiseta1.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/produtos/camiseta1.jpg"
+                },
+                "Patterns": null
+              },
+              "camiseta2.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/produtos/camiseta2.jpg"
+                },
+                "Patterns": null
+              },
+              "camiseta3.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/produtos/camiseta3.jpg"
+                },
+                "Patterns": null
+              },
+              "camiseta4.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/produtos/camiseta4.jpg"
+                },
+                "Patterns": null
+              },
+              "caneca1.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/produtos/caneca1.jpg"
+                },
+                "Patterns": null
+              },
+              "caneca2.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/produtos/caneca2.jpg"
+                },
+                "Patterns": null
+              },
+              "caneca3.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/produtos/caneca3.jpg"
+                },
+                "Patterns": null
+              },
+              "caneca4.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/produtos/caneca4.jpg"
+                },
+                "Patterns": null
+              },
+              "cards.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/produtos/cards.png"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
       "js": {
         "Children": {
           "site.js": {

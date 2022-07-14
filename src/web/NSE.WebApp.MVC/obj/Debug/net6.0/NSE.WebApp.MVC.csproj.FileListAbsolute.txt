@@ -5,7 +5,6 @@ C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.M
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\NSE.WebApp.MVC.deps.json
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\NSE.WebApp.MVC.runtimeconfig.json
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\NSE.WebApp.MVC.dll
-C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\ref\NSE.WebApp.MVC.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\NSE.WebApp.MVC.pdb
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -351,6 +350,7 @@ C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.M
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\scopedcss\bundle\NSE.WebApp.MVC.styles.css
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\NSE.WebApp.MVC.csproj.CopyComplete
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\NSE.WebApp.MVC.dll
-C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\ref\NSE.WebApp.MVC.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\refint\NSE.WebApp.MVC.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\NSE.WebApp.MVC.pdb
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\NSE.WebApp.MVC.genruntimeconfig.cache
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\net6.0\ref\NSE.WebApp.MVC.dll

@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Linq;
+using Microsoft.AspNetCore.Mvc;
 using NSE.WebApp.MVC.Models;
-using System.Linq;
 
 namespace NSE.WebApp.MVC.Controllers
 {

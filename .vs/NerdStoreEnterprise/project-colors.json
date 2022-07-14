@@ -20,7 +20,12 @@
       "ProjectGuid": "0230bd64-30e5-4b6c-a63c-9ed4f1aee29b",
       "DisplayName": "NSE.Core",
       "ColorIndex": 2
+    },
+    "199606b6-1023-4310-a484-f6dbf3a944f3": {
+      "ProjectGuid": "199606b6-1023-4310-a484-f6dbf3a944f3",
+      "DisplayName": "NSE.Catalogo.API",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
