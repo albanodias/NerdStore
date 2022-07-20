@@ -6,44 +6,40 @@ using Microsoft.Extensions.Hosting;
 using NSE.Catalogo.API.Configuration;
 using NSE.WebAPI.Core.Identidade;
 
-namespace NSE.Catalogo.API
+namespace NSE.Catalogo.API;
+
+public class Startup
 {
-    public class Startup
+    public Startup(IHostEnvironment hostEnvironment)
     {
-        public IConfiguration Configuration { get; }
+        var builder = new ConfigurationBuilder()
+            .SetBasePath(hostEnvironment.ContentRootPath)
+            .AddJsonFile("appsettings.json", true, true)
+            .AddJsonFile($"appsettings.{hostEnvironment.EnvironmentName}.json", true, true)
+            .AddEnvironmentVariables();
 
-        public Startup(IHostEnvironment hostEnvironment)
-        {
-            var builder = new ConfigurationBuilder()
-                .SetBasePath(hostEnvironment.ContentRootPath)
-                .AddJsonFile("appsettings.json", true, true)
-                .AddJsonFile($"appsettings.{hostEnvironment.EnvironmentName}.json", true, true)
-                .AddEnvironmentVariables();
+        if (hostEnvironment.IsDevelopment()) builder.AddUserSecrets<Startup>();
 
-            if (hostEnvironment.IsDevelopment())
-            {
-                builder.AddUserSecrets<Startup>();
-            }
+        Configuration = builder.Build();
+    }
 
-            Configuration = builder.Build();
-        }
+    public IConfiguration Configuration { get; }
 
-        public void ConfigureServices(IServiceCollection services)
-        {
-            services.AddApiConfiguration(Configuration);
+    public void ConfigureServices(IServiceCollection services)
+    {
+        services.AddApiConfiguration(Configuration);
 
-            services.AddJwtConfiguration(Configuration);
+        services.AddJwtConfiguration(Configuration);
 
-            services.AddSwaggerConfiguration();
+        services.AddSwaggerConfiguration();
 
-            services.RegisterServices();
-        }
+        services.RegisterServices();
+    }
 
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-        {
-            app.UseSwaggerConfiguration();
+    public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+    {
+        app.UseSwaggerConfiguration();
 
-            app.UseApiConfiguration(env);
-        }
+        app.UseApiConfiguration(env);
     }
 }

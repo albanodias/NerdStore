@@ -5,40 +5,36 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using NSE.WebApp.MVC.Configuration;
 
-namespace NSE.WebApp.MVC
+namespace NSE.WebApp.MVC;
+
+public class Startup
 {
-    public class Startup
-    {     
-        public IConfiguration Configuration { get; }
+    public Startup(IHostEnvironment hostingEnvironment)
+    {
+        var builder = new ConfigurationBuilder()
+            .SetBasePath(hostingEnvironment.ContentRootPath)
+            .AddJsonFile("appsettings.json", true, true)
+            .AddJsonFile($"appsettings.{hostingEnvironment.EnvironmentName}.json", true, true)
+            .AddEnvironmentVariables();
 
-        public Startup(IHostEnvironment hostingEnvironment)
-        {
-            var builder = new ConfigurationBuilder()
-                .SetBasePath(hostingEnvironment.ContentRootPath)
-                .AddJsonFile("appsettings.json", true, true)
-                .AddJsonFile($"appsettings.{hostingEnvironment.EnvironmentName}.json",true,true)
-                .AddEnvironmentVariables();
+        if (hostingEnvironment.IsDevelopment()) builder.AddUserSecrets<Startup>();
 
-            if (hostingEnvironment.IsDevelopment())
-            {
-                builder.AddUserSecrets<Startup>();
-            }
+        Configuration = builder.Build();
+    }
 
-            Configuration = builder.Build();
-        }
+    public IConfiguration Configuration { get; }
 
-        public void ConfigureServices(IServiceCollection services)
-        {
-            services.AddIdentityConfiguration();
+    public void ConfigureServices(IServiceCollection services)
+    {
+        services.AddIdentityConfiguration();
 
-            services.AddMvcConfiguration(Configuration);
+        services.AddMvcConfiguration(Configuration);
 
-            services.RegisterServices();
-        }
+        services.RegisterServices(Configuration);
+    }
 
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-        {
-            app.UseMvcConfiguration(env);
-        }
+    public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+    {
+        app.UseMvcConfiguration(env);
     }
 }

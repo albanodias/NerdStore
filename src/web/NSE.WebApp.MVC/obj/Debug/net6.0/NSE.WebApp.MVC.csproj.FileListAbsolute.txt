@@ -302,11 +302,15 @@ C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.M
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.Http.Polly.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Polly.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Polly.Extensions.Http.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\Refit.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\web\NSE.WebApp.MVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
