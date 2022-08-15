@@ -6,6 +6,7 @@ C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Ide
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Identidade.API\bin\Debug\net6.0\NSE.Identidade.API.runtimeconfig.json
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Identidade.API\bin\Debug\net6.0\NSE.Identidade.API.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Identidade.API\bin\Debug\net6.0\NSE.Identidade.API.pdb
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Identidade.API\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Identidade.API\bin\Debug\net6.0\Humanizer.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Identidade.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Identidade.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll

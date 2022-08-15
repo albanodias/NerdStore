@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+lDybw4aTWEsoWTqAZ57Le1OWCFMY5GnaYqikvnvj+SwbbpyZvfuAO1lQWsGd6g481G1UDBfWWRGP2T57Qk5QQ==",
+  "dgSpecHash": "xp1pLT9Hr4U1/qUpqwsuF/N5yPjNp1SI0sxDtTIo510wSgXMq8P/3LrpMfVAgIIMJ8IsVcKUWTXLXia68YnteQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\rober\\Desktop\\NerdStore_Desenvolvedor.io\\NerdStore\\src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.7\\microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.7\\microsoft.aspnetcore.mvc.razor.extensions.6.0.7.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.7\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.7.nupkg.sha512",

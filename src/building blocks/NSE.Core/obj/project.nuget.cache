@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PHtWMw7PH0682FhULS4PTf79N0nS4r+r3lyUHJp0ZdzhoN1ozwriWKLXNb6HwmMquOFfEUTEyiOhp/CftS2dxw==",
+  "dgSpecHash": "Ckle61FpDDQtrsdOFFWk7x23MNdrwwqWZvDgn5gMoHUQ8IZw0SuOQJ3D19n8So1mwYAXA5AhGJ7+wYTyISSjMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\rober\\Desktop\\NerdStore_Desenvolvedor.io\\NerdStore\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

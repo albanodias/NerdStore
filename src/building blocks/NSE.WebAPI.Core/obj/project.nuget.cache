@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DZzsGYopjKHYI5Oe4oEBrsf0FsEhwG19uW+DiNb/Bu8iMwU7gQqQPhvosNSFAHPXM/VpmAAN7G1pGMeIL0XC5g==",
+  "dgSpecHash": "WLO4CNBrOot1kht5yodOzo7EeWF450l9zVqRPFuBlx/94PcPXuZK9b8LuMI4+omMtF14XoUS0ITayuii+m8yZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\rober\\Desktop\\NerdStore_Desenvolvedor.io\\NerdStore\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.7\\microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
@@ -11,6 +12,7 @@
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],

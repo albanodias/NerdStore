@@ -5,7 +5,10 @@ C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Cat
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Catalogo.API\bin\Debug\net6.0\NSE.Catalogo.API.runtimeconfig.json
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Catalogo.API\bin\Debug\net6.0\NSE.Catalogo.API.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Catalogo.API\bin\Debug\net6.0\NSE.Catalogo.API.pdb
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Catalogo.API\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Catalogo.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Catalogo.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Catalogo.API\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Catalogo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Catalogo.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\rober\Desktop\NerdStore_Desenvolvedor.io\NerdStore\src\services\NSE.Catalogo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
